@@ -1,0 +1,19 @@
+{
+  "name": "zeus-contracts",
+  "version": "1.0.0",
+  "description": "Solidity Contracts for Nuo Network",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Soni <rohit@nuofox.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.5",
+    "openzeppelin-solidity": "1.12.0",
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}
