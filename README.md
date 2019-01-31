@@ -1,10 +1,10 @@
 # Nuo Network (Zeus) - contracts v2
 
-Solidity contracts for Nuo Network App
+![](https://s3.ap-south-1.amazonaws.com/nuo-public/nuo_app/public/nuo_lend_home.png)
 
 <https://app.nuo.network>
 
-Nuo Network is a decentralized debt platform powered by Ethereum blockchain.
+Nuo Network is a decentralized lending platform powered by Ethereum blockchain. It acts as a debt marketplace that connects lenders and borrowers using smart contracts. This enables lenders to earn interest on their crypto assets by locking up their tokens and also provides instant crypto backed loans to borrowers.
 
 **Note: Contracts are still under development and thorough testing is being performed**
 
